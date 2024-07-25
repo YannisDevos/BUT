@@ -1,0 +1,4 @@
+bin/
+**/*.class
+.vscode/ltex.*.txt
+res/Historique

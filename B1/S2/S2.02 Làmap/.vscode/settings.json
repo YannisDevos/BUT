@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx.swing.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\F4\\lib\\sae_s2_2024.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx.media.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\F4\\lib\\junit-platform-console-standalone-1.10.2.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx.web.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx.base.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\F4\\lib\\jheaps-0.14.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx.controls.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\F4\\lib\\jgrapht-core-1.5.1.jar",
+        "c:\\Users\\Yaya\\Documents\\COURS\\DEV\\JAVA\\Dependencie\\javafx\\lib\\javafx-swt.jar"
+    ],
+    "java.project.outputPath": "bin"
+}
